@@ -377,6 +377,12 @@
     "categories": ["all", "2P"]
   },
   {
+    "name": "The Game Collection",
+    "link": "https://tgcofficial.github.io",
+    "image": "/assets/media/icons/tetrio.webp",
+    "categories": ["all", "2P"]
+  },
+  {
     "name": "Time Shooter 2",
     "link": "https://html5.gamedistribution.com/62a72f2da7cb4b609579a47653546e6a/",
     "image": "/assets/media/icons/timeshooter2.webp",
